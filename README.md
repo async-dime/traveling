@@ -1,5 +1,9 @@
 # :earth_asia: Traveling :earth_asia:
 
+![Traveling](https://i.ibb.co/j82rBxk/Screenshot-from-2021-08-11-16-23-45.png)
+
+### [Live Site](https://traveling-advise.vercel.app/)
+
 > Search :plate_with_cutlery: restaurants, :hotel: hotels, or :statue_of_liberty: attractions
 
 
@@ -14,8 +18,17 @@ REACT_APP_RAPID_API_KEY=
 - [React](https://reactjs.org/)
 - [Material-UI](https://material-ui.com/)
 - [Vercel](https://vercel.com)
+- [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/)
+- [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Traveling is an advanced travel advisory app powered with Geolocation provided by Google Maps : Map API & Places API. Searching for places, fetching restaurants, hotels and attractions based on location from specialized RapidAPI, data filtering and much more.
+
+Build by guidance from [Javascript Mastery](https://www.youtube.com/watch?v=UKdQjQX1Pko&t=563s)
+
+
+
 ## Getting Started
 
 First, run the development server: 
