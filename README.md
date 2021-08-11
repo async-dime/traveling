@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# :earth_asia: Traveling :earth_asia:
+
+> Search :plate_with_cutlery: restaurants, :hotel: hotels, or :statue_of_liberty: attractions
+
+
+## Environment Variables
+
+```
+REACT_APP_GOOGLE_MAPS_API_KEY=
+REACT_APP_RAPID_API_KEY=
+```
+
+## Built Using
+- [React](https://reactjs.org/)
+- [Material-UI](https://material-ui.com/)
+- [Vercel](https://vercel.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started
+
+First, run the development server: 
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
 
 ## Available Scripts
 
